@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_hhi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhi-812/portfolio.git"
+  },
+  "author": "Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhi-812/portfolio/issues"
+  },
+  "homepage": "https://github.com/hhi-812/portfolio#readme"
+}
